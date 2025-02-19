@@ -140,7 +140,7 @@
 				class="text-xs text-gray-400 dark:text-gray-500">Copyright (c) {new Date().getFullYear()} <a
 					href="https://openwebui.com"
 					target="_blank"
-					class="underline">Open WebUI (Timothy Jaeryang Baek)</a
+					class="underline">FiatLux AI (Elyware SRL)</a
 				>
 All rights reserved.
 
