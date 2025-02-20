@@ -106,9 +106,9 @@ for source in log_sources:
 log.setLevel(SRC_LOG_LEVELS["CONFIG"])
 
 
-WEBUI_NAME = os.environ.get("WEBUI_NAME", "FiatLux WebUI")
-if WEBUI_NAME != "FiatLux WebUI":
-    WEBUI_NAME += " (FiatLux WebUI)"
+WEBUI_NAME = os.environ.get("WEBUI_NAME", "FiatLux AI")
+if WEBUI_NAME != "FiatLux AI":
+    WEBUI_NAME += " (FiatLux AI)"
 
 WEBUI_FAVICON_URL = "https://openwebui.com/favicon.png"
 

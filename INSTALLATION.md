@@ -1,4 +1,4 @@
-### Installing Both Ollama and FiatLux WebUI Using Kustomize
+### Installing Both Ollama and FiatLux AI Using Kustomize
 
 For cpu-only pod
 
@@ -12,7 +12,7 @@ For gpu-enabled pod
 kubectl apply -k ./kubernetes/manifest
 ```
 
-### Installing Both Ollama and FiatLux WebUI Using Helm
+### Installing Both Ollama and FiatLux AI Using Helm
 
 Package Helm file first
 
