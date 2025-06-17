@@ -207,7 +207,7 @@
 						href="https://github.com/open-webui/open-webui/blob/main/docs/CONTRIBUTING.md#-translations-and-internationalization"
 						target="_blank"
 					>
-						Help us translate FiatLux AI!
+						Help us translate Avaneidi AI!
 					</a>
 				</div>
 			{/if}

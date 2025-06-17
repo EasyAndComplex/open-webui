@@ -17,7 +17,7 @@ def version_callback(value: bool):
     if value:
         from open_webui.env import VERSION
 
-        typer.echo(f"FiatLux AI version: {VERSION}")
+        typer.echo(f"Avaneidi AI version: {VERSION}")
         raise typer.Exit()
 
 
