@@ -195,7 +195,7 @@
 </script>
 
 <svelte:head>
-	<title>#{channel?.name ?? 'Channel'} | FiatLux AI</title>
+	<title>#{channel?.name ?? 'Channel'} | OneVision+ AI</title>
 </svelte:head>
 
 <div

@@ -2,7 +2,7 @@
 
 Sometimes, its beneficial to host Ollama, separate from the UI, but retain the RAG and RBAC support features shared across users:
 
-# FiatLux AI Configuration
+# OneVision+ AI Configuration
 
 ## UI Configuration
 
